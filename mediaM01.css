@@ -1,0 +1,39 @@
+@media (max-width: 767px) {
+	.img-item {
+		width: 100%;
+	}
+
+	.header-nav {
+		position: relative;
+	}
+
+	.header-content {
+		display: block;
+	}
+
+	.header-content .header-text .btn-header{
+		position: relative;
+		text-align: center;
+	}
+	.servises {
+		width: 100%;
+ 	 	display: flex;
+  		flex-wrap: wrap;
+  		justify-content: center;
+	}
+
+	.team-content .team-paragraph {
+		text-align: center;
+	}
+
+	.team-cards {
+		width: 100%;
+ 	 	display: flex;
+  		flex-wrap: wrap;
+  		justify-content: center;
+	}
+
+
+	footer {
+		text-align: center;
+	}
